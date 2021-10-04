@@ -1,5 +1,5 @@
 <?php
-    require_once("../../../../config_vp_s2021.php");
+    require_once("../config_vp_s2021.php");
     require_once("fnc_general.php");
     require_once("fnc_user.php");
 
